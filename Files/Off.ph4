@@ -1,0 +1,9 @@
+#moe:ph4que 2022.02
+#pharmacophore 7 tag t value *
+scheme t Unified matchsize i 0 use_Hs i 1 abspos i 0 title t $ useRval i
+0 comment s $
+#feature 3 expr tt color ix x r y r z r r r ebits ix gbits ix m ix
+Aro ff8000 73.0904819175353 72.5896762318397 80.1207878840464 1 0 400 a64cff 
+Don&Acc ffcccc 76.9227899376982 70.8707597536339 75.4832001693402 1 0 400 a64cff 
+Aro ff8000 71.7554506101762 75.4741472235746 76.0530233721091 1 0 400 a64cff
+#endpharmacophore
